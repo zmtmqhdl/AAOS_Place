@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ AAOS Place
-AAOS 환경에서 저장된 장소를 마커로 지도에 표기하는 앱
+AAOS 환경에서 자체 내장 지도를 다뤄보기 위해 진행한 Android OS App
 
 <br>
 
