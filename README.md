@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ AAOS Place
-AAOS 환경에서 자체 내장 지도를 다뤄보기 위해 진행한 Android OS App
+Android Auto 환경에서 자체 내장 지도를 다뤄보기 위해 진행한 Android Auto APP
 
 <br>
 
@@ -21,17 +21,17 @@ AAOS 환경에서 자체 내장 지도를 다뤄보기 위해 진행한 Android 
 <br>
 
 ## 📁 프로젝트 상세 설명
-앱을 실행시키면 AAOS 환경의 기기에서 지도가 나오며, 저장된 장소들의 위치가 지도에 마커로 표기됩니다.
+APP을 실행시키면 Android Auto에 내장된 지도가 기기에 나오며, 사전에 저장된 장소들의 위치가 지도에 마커로 표기됩니다.
 
   <br>
 
-  (1) 마커가 표기된 지도 화면  
+  (1) 지도 화면
   <img src="https://github.com/user-attachments/assets/16d7c588-663b-49f3-ba3e-e4d6d538b5ca" width="80%">
   
 <br>
 
 ## ✏️ 배운 내용
-- AAOS 환경에서 AAOS의 자체 내장 지도를 사용해 볼 수 있었습니다.
+- Android Auto 환경에서 Android Auto의 자체 내장 지도를 사용
 
 <br>
 
